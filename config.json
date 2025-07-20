@@ -1,5 +1,0 @@
-{
-  "name": "Vehicle Classifier",
-  "description": "Intel Vehicle Attributes Recognition",
-  "classes": ["car", "bus", "truck", "van"]
-}
